@@ -10,7 +10,7 @@ This is a modern, responsive landing page for the BS Computer Science Department
 
 ## 🌐 Live Demo
 
-[View the live site](https://your-username.github.io/repository-name/)  
+[View the live site](https://fr4pp3r.github.io/bscspsun.github.io/)  
 _Replace with your actual username and repo name after deployment._
 
 ## 📁 Project Structure
