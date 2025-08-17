@@ -408,6 +408,11 @@ body {
     color: #999;
 }
 
+/* Mobile Navigation */
+.nav-menu-active {
+    display: flex !important;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .nav-menu {
